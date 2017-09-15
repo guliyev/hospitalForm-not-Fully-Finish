@@ -1,0 +1,12 @@
+C:\Users\p102\Documents\Visual Studio 2017\Projects\xhospital\xhospital\bin\Debug\xhospital.exe.config
+C:\Users\p102\Documents\Visual Studio 2017\Projects\xhospital\xhospital\bin\Debug\xhospital.exe
+C:\Users\p102\Documents\Visual Studio 2017\Projects\xhospital\xhospital\bin\Debug\xhospital.pdb
+C:\Users\p102\Documents\Visual Studio 2017\Projects\xhospital\xhospital\obj\Debug\xhospital.Form1.resources
+C:\Users\p102\Documents\Visual Studio 2017\Projects\xhospital\xhospital\obj\Debug\xhospital.Properties.Resources.resources
+C:\Users\p102\Documents\Visual Studio 2017\Projects\xhospital\xhospital\obj\Debug\xhospital.csproj.GenerateResource.Cache
+C:\Users\p102\Documents\Visual Studio 2017\Projects\xhospital\xhospital\obj\Debug\xhospital.csproj.CoreCompileInputs.cache
+C:\Users\p102\Documents\Visual Studio 2017\Projects\xhospital\xhospital\obj\Debug\xhospital.exe
+C:\Users\p102\Documents\Visual Studio 2017\Projects\xhospital\xhospital\obj\Debug\xhospital.pdb
+C:\Users\p102\Documents\Visual Studio 2017\Projects\xhospital\xhospital\obj\Debug\xhospital.Form2.resources
+C:\Users\p102\Documents\Visual Studio 2017\Projects\xhospital\xhospital\obj\Debug\xhospital.csprojResolveAssemblyReference.cache
+C:\Users\p102\Documents\Visual Studio 2017\Projects\xhospital\xhospital\obj\Debug\xhospital.Form3.resources
